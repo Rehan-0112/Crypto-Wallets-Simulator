@@ -1,0 +1,18 @@
+[
+  {
+    "txid": "70382149d3b54467ae46c4e76103e840",
+    "timestamp": 1755780923.0057173,
+    "from_addr": "SYSTEM",
+    "to_addr": "addr_6a420ee290ffb6c66ac09a2ea89d67f1",
+    "amount": 76,
+    "signature": "GENESIS_AIRDROP"
+  },
+  {
+    "txid": "c6b92c775bc84d9b9414748018750c96",
+    "timestamp": 1755780951.8764749,
+    "from_addr": "addr_6a420ee290ffb6c66ac09a2ea89d67f1",
+    "to_addr": "addr_87ea61efaa89e366715a9df86c963192",
+    "amount": 34,
+    "signature": "850c56a7d00bb04173a7b248a0a245b4b177d2190d75365b8850ffbe7f859a73"
+  }
+]
