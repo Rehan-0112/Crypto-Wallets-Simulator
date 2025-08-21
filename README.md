@@ -22,9 +22,3 @@ All transactions are permanently recorded in `transactions.json`, while wallet d
 - No external libraries needed (only built-in `json` and `hashlib`)  
 
 ---
-
-## ▶️ How to Run
-```bash
-git clone https://github.com/your-username/crypto-wallet-simulator.git
-cd crypto-wallet-simulator
-python crypto_wallet.py
